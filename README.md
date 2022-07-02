@@ -79,7 +79,9 @@
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
-<div style="display: inline_block">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=lucascsilvadev&theme=react&show_icons=true"/>
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascsilvadev&langs_count=7&theme=react"/>
-<div>
+<p align="center">
+    <a href="https://github.com/LucasCSilvaDEV">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascsilvadev&theme=react&show_icons=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascsilvadev&langs_count=7&theme=react"/>
+    </a>
+</p>

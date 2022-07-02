@@ -80,7 +80,7 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 <p align="center">
-    <a href="https://github.com/LucasCSilvaDEV">
+    <a href="https://github.com/LucasCSilva95">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascsilvadev&theme=react&show_icons=true"/>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascsilvadev&langs_count=7&theme=react"/>
     </a>
